@@ -14,8 +14,6 @@
 
 [![Vlasvlasvlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlasvlasvlas)](https://github.com/vlasvlasvlas/github-readme-stats)
 
-[![SistemasMapache's GitHub stats](https://github-readme-stats.vercel.app/api?username=SistemasMapache)](https://github.com/SistemasMapache/github-readme-stats)
-
 
 ## 🖤 Proyectos:
 
