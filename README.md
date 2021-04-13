@@ -9,8 +9,8 @@
 
 🕵 Durante mi carrera aprendí diferentes lenguajes y herramientas, entre ellos:
 
-    Dev: HTML/CSS/Javascript, Python (Flask), PHP (Laravel)
     Data: Bash, Pandas, SQL (MS,PG,ORA), MS-SSIS, Airflow, Spark, Databricks
+    Dev: HTML/CSS/Javascript, Python (Flask), PHP (Laravel)
 
 [![Vlasvlasvlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlasvlasvlas)](https://github.com/vlasvlasvlas/github-readme-stats)
 
