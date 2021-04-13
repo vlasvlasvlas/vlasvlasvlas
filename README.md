@@ -18,7 +18,7 @@
 
 🧑‍🤝‍🧑 Con dos socios amigos tenemos un proyecto de consultoría, [Sistemas Mapache](https://smapache.com.ar/es/). Durante el inicio de la pandemia de COVID armamos un dataset centralizado de datos nacionales [Covid19arData](https://github.com/SistemasMapache/Covid19arData) que todavía sigue siendo utilizado.
 
-⚡ Como proyectos personales estoy con uno sobre datos llamado "¿Qué tan lejos de casa jugabas en tu infancia?" sobre infancia y uso del tiempo de juego. Podés averiguar [mas info acá](https://docs.google.com/presentation/d/1XfjQMdxnnz40Aikc4xpt4Pp-f9n-UbhznH3oxzN4lBE/edit?usp=sharing). 
+⚡ Como proyectos personales estoy con uno sobre datos llamado "¿Qué tan lejos de casa jugabas en tu infancia?" sobre infancia y uso del tiempo de juego. Podés averiguar [mas info acá](https://docs.google.com/presentation/d/e/2PACX-1vR6HCGy6Iq3ICA2urQsDEVVJhoXhyJKK_AGJ4VQyVnf6nZVmSX6IEz6Gfo62-QaVIc-g9mGfWCle4iD/pub?start=false&loop=false&delayms=3000). 
 
 ## 🖤 Contacto: 
 * ✨ Twitter: https://twitter.com/vlasvlasvlas
