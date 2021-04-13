@@ -24,10 +24,10 @@ Here are some ideas to get you started:
     Dev: HTML/CSS/JS, Python, PHP
     Data: Bash, Pandas, SQL (MS,PG,ORA), MS-SSIS, Airflow, Spark, Databricks
 
-🧑‍🤝‍🧑 Con dos socios amigos tenemos un proyecto de consultoría, Sistemas Mapache. Durante el inicio de la pandemia de COVID armamos un dataset centralizado de datos nacionales en https://github.com/SistemasMapache/Covid19arData.
+🧑‍🤝‍🧑 Con dos socios amigos tenemos un proyecto de consultoría, [Sistemas Mapache](https://smapache.com.ar/es/). Durante el inicio de la pandemia de COVID armamos un dataset centralizado de datos nacionales [Covid19arData](https://github.com/SistemasMapache/Covid19arData) que todavía sigue siendo utilizado.
 
-⚡ Como proyectos personales estoy metido con uno sobre infancia y uso del tiempo de juego. Podés averiguar mas info acá: https://docs.google.com/presentation/d/1XfjQMdxnnz40Aikc4xpt4Pp-f9n-UbhznH3oxzN4lBE/edit?usp=sharing
+⚡ Como proyectos personales estoy metido con uno sobre infancia y uso del tiempo de juego. Podés averiguar [mas info acá](https://docs.google.com/presentation/d/1XfjQMdxnnz40Aikc4xpt4Pp-f9n-UbhznH3oxzN4lBE/edit?usp=sharing). 
 
-🔗 + info en mi linkedin: https://www.linkedin.com/in/vladimirobellini/
+🔗 + info en [mi linkedin](https://www.linkedin.com/in/vladimirobellini/): 
 
-🏄 Cualquier pregunta no dudes en contactarme.
+🏄 Cualquier pregunta no dudes en contactarme. Saludos! Vladi.
