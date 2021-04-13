@@ -1,7 +1,7 @@
 ### Hi there 👋 soy Vladimiro Bellini, @vlasvlasvlas
 
 
-## 🖤 Trabajo:
+## 🖤 Trabajos:
 
 👷 Actualmente ayudo a organismos como el BID (IADB) y Naciones Unidas (UN-ECLAC) con ingenería de datos, flujos y analítica.
 
