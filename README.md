@@ -20,7 +20,7 @@
 
 ⚡ Como proyectos personales estoy con uno sobre datos llamado "¿Qué tan lejos de casa jugabas en tu infancia?" sobre infancia y uso del tiempo de juego. Podés averiguar [mas info acá](https://docs.google.com/presentation/d/e/2PACX-1vR6HCGy6Iq3ICA2urQsDEVVJhoXhyJKK_AGJ4VQyVnf6nZVmSX6IEz6Gfo62-QaVIc-g9mGfWCle4iD/pub?start=false&loop=false&delayms=3000). 
 
-## 🖤 Contacto: 
+## 🖤 Contactos: 
 * ✨ Twitter: https://twitter.com/vlasvlasvlas
 * ✨ Linkedin: https://www.linkedin.com/in/vladimirobellini/
 
