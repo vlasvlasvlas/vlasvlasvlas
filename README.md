@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👷 Actualmente ayudo a organismos como el BID (IADB) y Naciones Unidas (UN-ECLAC) con temas de datos, flujos de datos y analítica.
+👷 Actualmente ayudo a organismos como el BID (IADB) y Naciones Unidas (UN-ECLAC) con ingenería de datos, flujos y analítica.
 
 🗺️ Me entusiasma también el mundo geo y opensource desde hace mucho tiempo por lo cual sigo involucrado en comunidades como Geoinquietos, OpenStreetMap y eventos como SOTM y FOSS4G. También mapeo en OSM y en HOT-OSM.
 
