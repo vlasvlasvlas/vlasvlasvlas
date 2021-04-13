@@ -1,19 +1,8 @@
 ### Hi there 👋 soy Vladimiro Bellini, @vlasvlasvlas
 
-<!--
-**vlasvlasvlas/vlasvlasvlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Vlasvlasvlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlasvlasvlas)](https://github.com/vlasvlasvlas/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖤 Trabajo:
 
 👷 Actualmente ayudo a organismos como el BID (IADB) y Naciones Unidas (UN-ECLAC) con ingenería de datos, flujos y analítica.
 
@@ -24,10 +13,15 @@ Here are some ideas to get you started:
     Dev: HTML/CSS/JS, Python, PHP
     Data: Bash, Pandas, SQL (MS,PG,ORA), MS-SSIS, Airflow, Spark, Databricks
 
+
+## 🖤 Proyectos:
+
 🧑‍🤝‍🧑 Con dos socios amigos tenemos un proyecto de consultoría, [Sistemas Mapache](https://smapache.com.ar/es/). Durante el inicio de la pandemia de COVID armamos un dataset centralizado de datos nacionales [Covid19arData](https://github.com/SistemasMapache/Covid19arData) que todavía sigue siendo utilizado.
 
-⚡ Como proyectos personales estoy metido con uno sobre infancia y uso del tiempo de juego. Podés averiguar [mas info acá](https://docs.google.com/presentation/d/1XfjQMdxnnz40Aikc4xpt4Pp-f9n-UbhznH3oxzN4lBE/edit?usp=sharing). 
+⚡ Como proyectos personales estoy con uno sobre datos llamado "¿Qué tan lejos de casa jugabas en tu infancia?" sobre infancia y uso del tiempo de juego. Podés averiguar [mas info acá](https://docs.google.com/presentation/d/1XfjQMdxnnz40Aikc4xpt4Pp-f9n-UbhznH3oxzN4lBE/edit?usp=sharing). 
 
-🔗 + info en [mi linkedin](https://www.linkedin.com/in/vladimirobellini/): 
+## 🖤 Contacto: 
+* ✨ Twitter: https://twitter.com/vlasvlasvlas
+* ✨ Linkedin: https://www.linkedin.com/in/vladimirobellini/
 
-🏄 Cualquier pregunta no dudes en contactarme. Saludos! Vladi.
+🏄 Saludos! Vladi.
