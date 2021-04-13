@@ -1,6 +1,5 @@
 ### Hi there 👋 soy Vladimiro Bellini, @vlasvlasvlas
 
-[![Vlasvlasvlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlasvlasvlas)](https://github.com/vlasvlasvlas/github-readme-stats)
 
 ## 🖤 Trabajo:
 
@@ -13,6 +12,7 @@
     Dev: HTML/CSS/JS, Python, PHP
     Data: Bash, Pandas, SQL (MS,PG,ORA), MS-SSIS, Airflow, Spark, Databricks
 
+[![Vlasvlasvlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlasvlasvlas)](https://github.com/vlasvlasvlas/github-readme-stats)
 
 ## 🖤 Proyectos:
 
