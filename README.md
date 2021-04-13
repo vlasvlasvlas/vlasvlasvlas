@@ -3,7 +3,7 @@
 
 ## 🖤 Trabajos:
 
-👷 Actualmente ayudo a organismos como el BID ([IADB](https://www.iadb.org/es/proyectos)) y Naciones Unidas ([UN-ECLAC](https://www.cepal.org/es)) con ingenería de datos, flujos y analítica.
+👷 Soy ingeniero de datos y ayudo a organismos como el BID ([IADB](https://www.iadb.org/es/proyectos)) y Naciones Unidas ([UN-ECLAC](https://www.cepal.org/es)) con flujos y analítica de datos.
 
 🗺️ Me entusiasma también el mundo geo y opensource desde hace mucho tiempo por lo cual sigo involucrado en comunidades como Geoinquietos, OpenStreetMapArgentina y eventos como el SOTM y la FOSS4G. También mapeo en OSM y en HOT-OSM.
 
