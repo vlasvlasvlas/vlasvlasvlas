@@ -1,6 +1,8 @@
 ### Hi there 👋 soy Vladimiro Bellini, @vlasvlasvlas
 
-📚 Estudiando la Maestría de Ciencia de Datos de la Universidad Austral (ARG). Me gustan los datos, los mapas, los cuentos y los misterios.
+📚 Estudiando la Maestría de Ciencia de Datos de la Universidad Austral (ARG). 
+
+👌 Me gustan los datos, los mapas, los cuentos y los misterios.
 
 ## 🖤 Trabajos:
 
