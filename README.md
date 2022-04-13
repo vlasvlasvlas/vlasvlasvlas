@@ -1,5 +1,6 @@
 ### Hi there 👋 soy Vladimiro Bellini, @vlasvlasvlas
 
+Estoy estudiando la Maestría de Ciencia de Datos de la Universidad Austral (ARG).
 
 ## 🖤 Trabajos:
 
