@@ -9,8 +9,8 @@
 
 🕵 Durante mi carrera aprendí diferentes lenguajes y herramientas, entre ellos:
 
-    Data: Bash, Data R, Data Python (SciPy, Numpy, Pandas), SQL (MS,PG,ORA), MS-SSIS, Airflow, Spark, Databricks, SPSS Modeler
-    Dev: HTML/CSS/Javascript, Python (Flask), PHP (Laravel)
+    Data: Data R & Python Tools, SQL (MS,PG,ORA), SP's, Bash, Airflow, MS-SSIS, Spark, Databricks, SPSS Modeler, (learning Julia Data Tools)
+    Dev: Python (Flask), PHP (Laravel), HTML/CSS/Javascript, Jinja2
 
 [![Vlasvlasvlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlasvlasvlas)](https://github.com/vlasvlasvlas/github-readme-stats)
 
