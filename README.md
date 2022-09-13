@@ -26,6 +26,8 @@
 
 ⚡ Estoy dandole forma a una tesina: "Detección de Alertas tempranas en el sistema Buenos Aires Compras (BAC) con el uso de machine learning y el estándar de datos Open Contracting para las contrataciones abiertas" [más info acá](https://github.com/vlasvlasvlas/buenosaires_ocds_redflags)
 
+⚡ También estoy con un proyecto de insigihts sobre media (video/audio) data live streams.
+
 ## 🖤 Contactos: 
 * ✨ Twitter: https://twitter.com/vlasvlasvlas
 * ✨ Linkedin: https://www.linkedin.com/in/vladimirobellini/
