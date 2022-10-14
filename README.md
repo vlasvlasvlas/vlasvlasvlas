@@ -6,9 +6,9 @@
 
 ## 🖤 Trabajos:
 
-👷 Ayudo desde una perspectiva de ingeniería y estrategia de datos a organismos como el BID ([IADB](https://www.iadb.org/es/reforma-modernizacion-del-estado/iniciativas-mapainversiones)) y Naciones Unidas ([UN-ECLAC](https://statistics.cepal.org/portal/cepalstat/index.html?lang=es)) con exploración, analítica y flujo de datos.
+👷 Ayudo desde una perspectiva de ingeniería y estrategia de datos a organismos como el BID ([IADB](https://www.iadb.org/es/reforma-modernizacion-del-estado/iniciativas-mapainversiones)) y Naciones Unidas ([UN-ECLAC](https://statistics.cepal.org/portal/cepalstat/index.html?lang=es)) con exploración, analítica, ingeniería, flujo de datos, y disponibilidad de los mismos. Para esto uso soluciones cloud (Azure, GCP) y ad-hoc (SQLServer,PostgreSQL), y Python-based scripting. Me entusiasma el NLP y la detección por imágenes, y estoy aprendiendo mucho de modelos de aprendizaje automáticos en la Maestría de Ciencia de Datos (R, Python).
 
-🗺️ Me entusiasma también el mundo geo y opensource desde hace mucho tiempo por lo cual sigo involucrado en comunidades como Geoinquietos, OpenStreetMap Argentina y eventos como el SOTM y la FOSS4G. También mapeo en OSM y en HOT-OSM.
+🗺️ También me entusiasma el mundo geo y opensource desde hace mucho tiempo por lo cual sigo involucrado en comunidades como Geoinquietos, OpenStreetMap Argentina y eventos como el SOTM y la FOSS4G. También mapeo en OSM y en HOT-OSM.
 
 🕵 Durante mi carrera aprendí diferentes lenguajes y herramientas, entre ellos:
 
@@ -26,7 +26,7 @@
 
 ⚡ Estoy dandole forma a una tesina: "Detección de Alertas tempranas en el sistema Buenos Aires Compras (BAC) con el uso de machine learning y el estándar de datos Open Contracting para las contrataciones abiertas" [más info acá](https://github.com/vlasvlasvlas/buenosaires_ocds_redflags)
 
-⚡ También estoy con un proyecto de insigihts sobre media (video/audio) data live streams.
+⚡ También estoy con un proyecto de insigihts sobre media (video/audio) data live streams (NLP, Python, Videostreaming) & cruces entre noticías de medios y stocks.
 
 ## 🖤 Contactos: 
 * ✨ Twitter: https://twitter.com/vlasvlasvlas
