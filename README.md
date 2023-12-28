@@ -8,7 +8,7 @@
 
 👷 Ayudo desde una perspectiva de ingeniería y estrategia de datos a organismos como el BID ([IADB](https://www.iadb.org/es/reforma-modernizacion-del-estado/iniciativas-mapainversiones)) y Naciones Unidas ([UN-ECLAC](https://statistics.cepal.org/portal/cepalstat/index.html?lang=es)) con exploración, analítica, ingeniería, flujo de datos, y disponibilidad de los mismos. Para esto uso soluciones cloud (Azure, GCP) y ad-hoc (SQLServer,PostgreSQL), y Python-based scripting. 
 
-Me entusiasma el NLP y la detección por imágenes, y estoy aprendiendo mucho de modelos de aprendizaje automáticos en la Maestría de Ciencia de Datos (R, Python).
+📑 Me entusiasma el NLP y la detección por imágenes, y estoy aprendiendo mucho de modelos de aprendizaje automáticos en la Maestría de Ciencia de Datos (R, Python).
 
 🗺️ También me entusiasma el mundo geo y opensource desde hace mucho tiempo por lo cual sigo involucrado en comunidades como Geoinquietos, OpenStreetMap Argentina y eventos como el SOTM y la FOSS4G. También mapeo en OSM y en HOT-OSM.
 
