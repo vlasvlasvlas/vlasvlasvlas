@@ -6,16 +6,16 @@
 
 ## 🖤 Trabajos:
 
-👷 Ayudo desde una perspectiva de ingeniería y estrategia de datos a organismos como el BID ([IADB](https://www.iadb.org/es/reforma-modernizacion-del-estado/iniciativas-mapainversiones)) y Naciones Unidas ([UN-ECLAC](https://statistics.cepal.org/portal/cepalstat/index.html?lang=es)) con exploración, analítica, ingeniería, flujo de datos, y disponibilidad de los mismos. Para esto uso soluciones cloud (Azure, GCP) y ad-hoc (SQLServer,PostgreSQL), y Python-based scripting. 
+👷 Ayudo desde una perspectiva de ingeniería y estrategia de datos a organismos como el BID ([IADB](https://www.iadb.org/es/reforma-modernizacion-del-estado/iniciativas-mapainversiones)) y Naciones Unidas ([UN-ECLAC](https://statistics.cepal.org/portal/cepalstat/index.html?lang=es)) con machine learning, LLMs, exploración, analítica, ingeniería, flujo de datos, y disponibilidad de los mismos. Para esto uso soluciones cloud (Azure, GCP) y ad-hoc (SQLServer,PostgreSQL), y Python-based scripting. 
 
-📑 Me entusiasma el NLP y la detección por imágenes, y estoy aprendiendo mucho de modelos de aprendizaje automáticos en la Maestría de Ciencia de Datos (R, Python).
+📑 Me entusiasma el mundo de AI, Machine Learning, LLM, NLP y la detección por imágenes, y aprendí mucho de modelos de aprendizaje automáticos en la Maestría de Ciencia de Datos (R, Python).
 
 🗺️ También me entusiasma el mundo geo y opensource desde hace mucho tiempo por lo cual sigo involucrado en comunidades como Geoinquietos, OpenStreetMap Argentina y eventos como el SOTM y la FOSS4G. También mapeo en OSM y en HOT-OSM.
 
 🕵 Durante mi carrera aprendí diferentes lenguajes y herramientas, entre ellos:
 
-    Data: Data R & Python Tools (Learning Julia), SQL (MS,PG,ORA), SP's, Bash, Airflow, MS-SSIS, Spark, Databricks, SPSS Modeler
-    Dev: Python (Flask), PHP (Laravel), HTML/CSS/JS, Jinja2
+    Data: LLMs, Langchian, Data R & Python Tools (Learning Julia), SQL (MS,PG,ORA), SP's, Bash, Airflow, MS-SSIS, Spark, Databricks, SPSS Modeler
+    Dev: Python (Flask/FastAPI), PHP (Laravel), HTML/CSS/JS, Jinja2
 
 [![Vlasvlasvlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlasvlasvlas)](https://github.com/vlasvlasvlas/github-readme-stats)
 
@@ -26,9 +26,9 @@
 
 ⚡ Como proyectos personales estoy con uno sobre datos llamado "¿Qué tan lejos de casa jugabas en tu infancia?" sobre infancia y uso del tiempo de juego. Podés averiguar [más info acá](https://docs.google.com/presentation/d/e/2PACX-1vR6HCGy6Iq3ICA2urQsDEVVJhoXhyJKK_AGJ4VQyVnf6nZVmSX6IEz6Gfo62-QaVIc-g9mGfWCle4iD/pub?start=false&loop=false&delayms=3000). 
 
-⚡ Estoy dandole forma a una tesina: "Detección de Alertas tempranas en el sistema Buenos Aires Compras (BAC) con el uso de machine learning y el estándar de datos Open Contracting para las contrataciones abiertas" [más info acá](https://github.com/vlasvlasvlas/buenosaires_ocds_redflags)
+⚡ Estoy completando mi tesis de maestria: "Detección de Alertas tempranas en el sistema Buenos Aires Compras (BAC) con el uso de machine learning y el estándar de datos Open Contracting para las contrataciones abiertas" [más info acá](https://github.com/vlasvlasvlas/buenosaires_ocds_redflags)
 
-⚡ También estoy con un proyecto de insigihts sobre media (video/audio) data live streams (NLP, Python, Videostreaming) & cruces entre noticías de medios y stocks.
+⚡ También estoy con varios proyecto de insigihts sobre LLM, media (video/audio) data live streams (NLP, Python, Videostreaming) & cruces entre noticías de medios y stocks.
 
 ## 🖤 Contactos: 
 * ✨ Twitter: https://twitter.com/vlasvlasvlas
