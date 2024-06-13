@@ -10,7 +10,7 @@
 
 📑 Me entusiasma el mundo de AI, Machine Learning, LLM, NLP y la detección por imágenes, y aprendí mucho de modelos de aprendizaje automáticos en la Maestría de Ciencia de Datos (R, Python).
 
-📊 Me interesa mucho el tema de datos abiertos, la apertura de datos, etc. He trabajado con CKAN, levantando el CKAN del Ministerio de Energía en Argentina, y en proyectos dockerizados de CKAN y recolección de datos y metadatos para la Ciudad de Buenos Aires, el gobierno nacional argentino y CEPAL Naciones Unidas.
+📊 Me interesa mucho el tema de datos abiertos, la apertura de datos, etc. He trabajado con CKAN, levantando el portal de datos del Ministerio de Energía en Argentina, y en proyectos dockerizados para gobiernos y sector privado en portales de datos abiertos y recolección de datos y metadatos (Ciudad de Buenos Aires, Gobierno nacional argentino, CEPAL Naciones Unidas).
 
 🗺️ También me entusiasma el mundo geo y opensource desde hace mucho tiempo por lo cual sigo involucrado en comunidades como Geoinquietos, OpenStreetMap Argentina y eventos como el SOTM y la FOSS4G. También mapeo en OSM y en HOT-OSM. (Mapserver, Geoserver, Geonetwork, Geowebservices, Leaflet, Openlayers)
 
