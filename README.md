@@ -1,68 +1,99 @@
 ### Hi there 👋 soy Vladimiro Bellini, @vlasvlasvlas
 
-📚 Maestría de Ciencia de Datos de la Universidad Austral (ARG). 
+📚 Maestría en Ciencia de Datos -- Universidad Austral (ARG)\
+🎓 Lic. en Diseño de Imagen & Sonido -- UBA\
+🎓 Data & AI Strategy -- Universidad de San Andrés
 
-👌 Me gustan los datos, los mapas, los cuentos y los misterios. 🌌
+Data \| Music \| Python \| IA
 
-## 🖤 Trabajos:
+------------------------------------------------------------------------
 
-👷 **AI & Data Engineer Consultant** en el [Banco Interamericano de Desarrollo (BID)](https://github.com/EL-BID), donde trabajo en proyectos de código abierto como [MapaInversiones](https://github.com/EL-BID/MapaInversiones) y [data-Mapainversiones](https://github.com/EL-BID/data-Mapainversiones) - plataformas que fomentan la transparencia del gasto, inversiones y contrataciones públicas en América Latina y el Caribe. También contribuí previamente con Naciones Unidas ([UN-ECLAC](https://statistics.cepal.org/portal/cepalstat/index.html?lang=es)).
+## 🖤 Sobre mí
 
-🗺️ **Colaborador en Malvinas Argentinas** desde el área de mapas, datos y geomática, apoyando proyectos de gestión territorial y datos geoespaciales.
+Trabajo en la intersección entre datos, sonido y sistemas.\
+Construyo arquitecturas LLM para transparencia pública y, al mismo
+tiempo, máquinas que imprimen sueños en papel térmico.
 
-📑 Me entusiasma el mundo de AI, Machine Learning, LLMs, NLP, RAG y la detección por imágenes. Trabajo con soluciones cloud (Azure, GCP) y herramientas como PostgreSQL, pgvector, LangChain, y Python-based scripting.
+Me interesan:
 
-📊 Me interesa mucho el tema de datos abiertos. He trabajado con CKAN, levantando el portal de datos del Ministerio de Energía en Argentina, y en proyectos dockerizados para gobiernos y sector privado (Ciudad de Buenos Aires, Gobierno nacional argentino, CEPAL Naciones Unidas).
+-   Ecosistemas de datos abiertos\
+-   Modelos generativos y sistemas RAG\
+-   Cartografías críticas\
+-   Instalaciones electroacústicas\
+-   Código como instrumento
 
-🗺️ También me entusiasma el mundo geo y opensource por lo cual sigo involucrado en comunidades como Geoinquietos, OpenStreetMap Argentina y eventos como el SOTM y la FOSS4G. También mapeo en OSM y en HOT-OSM. (Mapserver, Geoserver, Geonetwork, Geowebservices, Leaflet, Openlayers)
+------------------------------------------------------------------------
 
-🕵 Durante mi carrera aprendí diferentes lenguajes y herramientas, entre ellos:
+## 🖤 Trabajo actual
 
-    Data: LLMs, LangChain, pgvector, RAG, Data R & Python Tools, SQL (MS,PG,ORA), Bash, Airflow, Spark, Databricks
-    Dev: Python (Flask/FastAPI), PHP (Laravel), HTML/CSS/JS, Jinja2
+👷 **Product Owner & Data / AI Engineer -- Banco Interamericano de
+Desarrollo (BID)**
 
-[![Vlasvlasvlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlasvlasvlas)](https://github.com/vlasvlasvlas/github-readme-stats)
+Desarrollo MapaBot (LLM GenAI) para plataformas de transparencia pública
+en América Latina.\
+Arquitecturas vectoriales, LangChain, Azure OpenAI, optimización de
+tokens, pipelines cloud y automatización de datos.
 
+Ex Naciones Unidas (CEPAL/ECLAC).\
+Consultor GIS en Municipalidad de Malvinas Argentinas.
 
-## 🖤 Proyectos actuales:
+------------------------------------------------------------------------
 
-🏦 **Proyectos en el BID (5+ años):**
+## 🖤 Stack
 
-- **🤖 MapaBot** - Product Owner & Data/AI Engineer del Chatbot LLM GenAI para [MapaInversiones](https://mapainversiones.economia.gob.do/). Desarrollo e implementación utilizando modelos generativos LLM, CacheDB, índices vectoriales, Python, LangChain y Azure Cloud. República Dominicana fue el primer país de América Latina en usar chatbot para transparencia pública.
+Data: LLMs · RAG · LangChain · pgvector · SQL · Spark · Databricks ·
+Airflow · Python · R
 
-- **🗺️ MapaInversiones Argentina** - Product Owner & Data Engineer. Plataforma que visualiza y mapea proyectos de inversión pública del Ministerio de Obras Públicas. [mapainversiones.obraspublicas.gob.ar](https://mapainversiones.obraspublicas.gob.ar/)
+Dev: FastAPI · Flask · Azure Functions · Docker · Cloud (Azure/GCP/AWS)
 
-- **📊 Data Engineering Consultant** - Senior Data Engineering para ICS Division del BID. Data Analytics, ETL/EL Architecture, GIS Data flows, Azure Cloud Data pipelines, Databricks & Apache Spark, Open Contracting (OCDS) integrations.
+Geo: PostGIS · OSM · Geoserver · Leaflet · Openlayers
 
-- **🔒 Proyecto CER** - Asistencia técnica para Conducta Empresarial Responsable en República Dominicana (CONEP + DIGEIG).
+------------------------------------------------------------------------
 
-- **📋 Portal RITE** - Diseño de arquitectura del Registro de Integridad y Transparencia Empresarial para la Oficina Anticorrupción.
+## 🖤 Proyectos recientes
 
-- [MapaInversiones](https://github.com/EL-BID/MapaInversiones) | [data-Mapainversiones](https://github.com/EL-BID/data-Mapainversiones)
+### 🤖 AI / Data
 
-🤖 **Proyectos personales de AI/Data:**
-- [pgvectorscale-rag-hybrid-rerank](https://github.com/vlasvlasvlas/pgvectorscale-rag-hybrid-rerank) - RAG + Hybrid search con PostgreSQL y Reranker local
-- [SemanticSchemaLinker](https://github.com/vlasvlasvlas/SemanticSchemaLinker) - Pipeline para NL2SQL con metadata semántica
-- [AutoSixSigma-DataQA](https://github.com/vlasvlasvlas/AutoSixSigma-DataQA) - Automatización de QA de datos con Six Sigma
-- [paranormales-wtf](https://github.com/vlasvlasvlas/paranormales-wtf) - Extracción de texto de videos, modelos LLM y XGBoost para clasificación supervisada
+-   SemanticSchemaLinker -- NL2SQL semantic enrichment\
+-   AutoSixSigma-DataQA -- Automatización QA\
+-   OpenPlanter -- Red Flags\
+-   ImgCropCV -- YOLO + OpenCV\
+-   spark-docker-local-cluster -- Spark en Docker
 
-🎮 **Proyectos creativos:**
-- [mapadefichines](https://github.com/vlasvlasvlas/mapadefichines) - Mapa de lugares donde encontrar videojuegos
-- [Machines-Dreaming-in-the-Sands-of-Time-and-the-Cosmos](https://github.com/vlasvlasvlas/Machines-Dreaming-in-the-Sands-of-Time-and-the-Cosmos) - Arte generativo con impresión térmica
-- [motion-deja-vu](https://github.com/vlasvlasvlas/motion-deja-vu) - Slit animation loop machine usando Kotlin & LEGO
-- [tostatetris](https://github.com/vlasvlasvlas/tostatetris) - Tetris on Toast - Experimento colaborativo
-- [triomino-generator](https://github.com/vlasvlasvlas/triomino-generator) - Generador automático de juego Triominó
-- [ytbmusic](https://github.com/vlasvlasvlas/ytbmusic) - Proyecto de música y YouTube
+### 🎛 Arte & experimentación
 
-## 🖤 Proyectos pasados:
+-   nighttowers -- Nueve torres y nueve estrellas conectadas por
+    síntesis electroacústica\
+-   text2wind -- Texto que se convierte en viento y sonido\
+-   synthclock -- Instrumento generativo (Tone Clock)\
+-   Machines-Dreaming-in-the-Sands-of-Time-and-the-Cosmos -- Sueños
+    impresos en papel térmico\
+-   itoshima_sound -- Paisajes sonoros\
+-   tostatetris -- Tetris sobre tostadas
 
-🧑‍🤝‍🧑 Con dos socios amigos tuvimos un proyecto de consultoría llamado **Sistemas Mapache** (proyecto cerrado). Durante el inicio de la pandemia de COVID armamos un dataset centralizado de datos nacionales [Covid19arData](https://github.com/SistemasMapache/Covid19arData) que fue muy utilizado (50+⭐).
+### 🗺️ Mapas & política
 
-📊 Tesis de maestría: "Detección de Alertas tempranas en el sistema Buenos Aires Compras (BAC) con el uso de machine learning y el estándar de datos Open Contracting" [más info acá](https://github.com/vlasvlasvlas/buenosaires_ocds_redflags)
+-   interventions -- Intervenciones de EEUU (1775--2026)\
+-   tierras_extranjeras_arg -- Propiedad extranjera en Argentina\
+-   mapadefichines -- Mapa de videojuegos
 
-## 🖤 Contactos: 
-* ✨ Twitter/X: https://twitter.com/vlasvlasvlas
-* ✨ LinkedIn: https://www.linkedin.com/in/vladimirobellini/
-* ✨ Google Dev: https://g.dev/vlasvlasvlas
+------------------------------------------------------------------------
 
-🏄 Saludos! Vladi.
+## 🖤 Pasado
+
+Sistemas Mapache (2017--2022) -- consultoría geoespacial FOSS (cerrado).
+
+Tesis: detección de alertas tempranas en contrataciones públicas usando
+ML + OCDS.
+
+------------------------------------------------------------------------
+
+## 🖤 Contacto
+
+sonido@gmail.com\
+https://www.linkedin.com/in/vladimirobellini/\
+https://g.dev/vlasvlasvlas
+
+------------------------------------------------------------------------
+
+Vladi.
