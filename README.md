@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Vladimiro Bellini — datos, mapas, sonido y código" />
-</p>
+
 
 <p align="center">
   <a href="https://vlasvlasvlas.github.io/interfaces/"><strong>interfaces ↗</strong></a>
