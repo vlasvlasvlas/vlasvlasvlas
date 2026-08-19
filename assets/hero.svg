@@ -1,58 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" role="img" aria-labelledby="title">
   <title id="title">Vladimiro Bellini</title>
-  <desc id="desc">Datos, mapas, sonido y código</desc>
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#09090b" />
-      <stop offset="0.55" stop-color="#151221" />
-      <stop offset="1" stop-color="#07191a" />
-    </linearGradient>
-    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ff4f9a" />
-      <stop offset="0.5" stop-color="#a78bfa" />
-      <stop offset="1" stop-color="#39e6c4" />
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1" />
-    </pattern>
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
-      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-    </filter>
-  </defs>
 
-  <rect width="1280" height="360" rx="24" fill="url(#background)" />
-  <rect width="1280" height="360" rx="24" fill="url(#grid)" />
-  <path d="M0 300 C105 300 112 268 173 268 C234 268 241 327 302 327 C363 327 368 222 431 222 C494 222 493 297 558 297 C623 297 625 280 680 280" fill="none" stroke="url(#signal)" stroke-opacity="0.42" stroke-width="2" />
+  <rect width="1280" height="300" fill="#000000" />
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-    <text x="64" y="65" fill="#39e6c4" font-size="15" letter-spacing="3">BUENOS AIRES · DATA / MAPS / SOUND / CODE</text>
-    <text x="60" y="154" fill="#f8f7ff" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="800" letter-spacing="-2">VLADIMIRO</text>
-    <text x="60" y="228" fill="#f8f7ff" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="800" letter-spacing="-2">BELLINI</text>
-    <text x="64" y="277" fill="#b8b5c5" font-size="17">hacer visible lo complejo · hacer audible lo invisible</text>
-  </g>
+  <text
+    x="64"
+    y="174"
+    fill="#ffffff"
+    font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+    font-size="64"
+    font-weight="400"
+    letter-spacing="0.5"
+  >Vladimiro Bellini</text>
 
-  <g transform="translate(870 54)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="142" cy="125" r="104" stroke="#ffffff" stroke-opacity="0.11" />
-    <circle cx="142" cy="125" r="72" stroke="#ffffff" stroke-opacity="0.10" />
-    <circle cx="142" cy="125" r="40" stroke="#ffffff" stroke-opacity="0.09" />
-    <path d="M7 126 L33 126 L46 93 L61 164 L78 111 L93 141 L110 126 L132 126 L145 62 L161 192 L179 101 L196 151 L212 126 L277 126" stroke="url(#signal)" stroke-width="3" filter="url(#glow)" />
-    <g fill="#f8f7ff" stroke="none">
-      <circle cx="46" cy="93" r="4" />
-      <circle cx="145" cy="62" r="4" />
-      <circle cx="161" cy="192" r="4" />
-      <circle cx="179" cy="101" r="4" />
-    </g>
-    <g stroke="#39e6c4" stroke-opacity="0.48" stroke-width="1">
-      <path d="M46 93 L92 45 L145 62 L202 28" />
-      <path d="M61 164 L112 207 L161 192 L226 220" />
-    </g>
-  </g>
-
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#8f8b9d">
-    <text x="1118" y="328">vlasvlasvlas</text>
-    <circle cx="1094" cy="323" r="5" fill="#ff4f9a" />
-    <circle cx="1076" cy="323" r="5" fill="#a78bfa" />
-    <circle cx="1058" cy="323" r="5" fill="#39e6c4" />
-  </g>
+  <path
+    d="M790 150 C825 82 860 82 895 150 S965 218 1000 150 S1070 82 1105 150 S1175 218 1210 150"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="2"
+  />
 </svg>
