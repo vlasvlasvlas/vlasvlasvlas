@@ -16,12 +16,6 @@
 
 Diseño y construyo sistemas en el cruce entre **datos, inteligencia artificial, cartografía y sonido**.
 
-No separo demasiado una arquitectura RAG, un mapa público y un sintetizador que usa el clima: en los tres casos me interesa crear interfaces para volver **legible —o audible— un sistema complejo**.
-
-```text
-datos → estructuras → interfaces → decisiones / experiencias
-```
-
 ## interfaces/
 
 > **Un ecosistema vivo de instrumentos musicales para navegador.**<br />
@@ -58,11 +52,7 @@ datos → estructuras → interfaces → decisiones / experiencias
 
 El catálogo reúne **40 interfaces visuales, sonoras e interactivas**: sintetizadores, secuenciadores, juegos, piezas generativas y experimentos con el cuerpo. Todo funciona sin instalación, directamente en el navegador.
 
-## Tres territorios, una misma práctica
-
-| Sistemas públicos | Datos, mapas & AI | Máquinas sonoras |
-| :--- | :--- | :--- |
-| Productos y arquitecturas para transparencia, inversión pública y datos abiertos en América Latina. | Pipelines, modelos, visualizaciones y herramientas para descubrir patrones y hacer preguntas mejores. | Instrumentos web, instalaciones, objetos hackeados y performances donde el código también se toca. |
+## Proyectos
 
 ### Sistemas, AI & datos
 
@@ -100,6 +90,7 @@ Entre esos cruces también están el portal CKAN de datos abiertos del Ministeri
 
 - [**Vladimiro Bellini — Bandcamp**](https://vladimirbellini.bandcamp.com/) — datos & mapas, música & cuentos.
 - [**POSNETES**](https://posnetes.bandcamp.com/) — laboratorio de juego sonoro con posnets hackeados y otros objetos.
+- [**Rollito Editorial**](https://www.instagram.com/rollito_editorial/) — publicaciones y experimentos en papel térmico.
 - [**Machines Dreaming in the Sands of Time and the Cosmos**](https://github.com/vlasvlasvlas/Machines-Dreaming-in-the-Sands-of-Time-and-the-Cosmos) — memoria y comunicación entre máquinas mediante sueños impresos en papel térmico.
 - [**TostaTetris**](https://github.com/vlasvlasvlas/tostatetris) — Tetris colaborativo controlado con una tostadora hackeada.
 
